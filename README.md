@@ -15,7 +15,7 @@ Please leave a ⭐ as motivation if you liked the implementation 😄
 <br />
 
 ## Built with
-* [Next.js](https://nextjs.org/)
+* [Next.js 11](https://nextjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Sass](https://sass-lang.com/)
 * [TMDB API](https://www.themoviedb.org/)
